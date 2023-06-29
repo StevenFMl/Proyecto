@@ -49,7 +49,7 @@ if (isset($_SESSION["idUsuario"])) {
                                                     <th>Opciones</th>
                                                 </tr>
                                             </thead>
-                                            <tbody id='TablaUsuarios'></tbody>
+                                            <tbody id='cargaTablaUsuarios'></tbody>
                                         </table>
 
                                     </div>

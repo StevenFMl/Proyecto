@@ -112,7 +112,7 @@ if (isset($_SESSION["cod_cliente"])) {
   <!--scripts-->
   <?php include_once('../html/scripts.php')  ?>
         
-        <script src="cliente.js"></script>
+        <script src="../clientes/cliente.js"></script>
     </body>
 
     </html>
