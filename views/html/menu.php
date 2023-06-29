@@ -130,6 +130,9 @@
               <i class="bi bi-circle"></i><span>Datos Productos</span>
             </a>
           </li>
+          <a href="../usuarios/usuarios.php">
+              <i class="bi bi-circle"></i><span>General Usuarios</span>
+            </a>
         </ul>
       </li><!-- End Tables Nav -->
 
